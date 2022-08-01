@@ -1,0 +1,33 @@
+.welcome {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.box {
+    padding-top: 50px;
+}
+
+.log form input[type="submit"] {
+    border: 0px;
+    margin-top: 15px;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    color: darkgrey;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: bold;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.log {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+}
